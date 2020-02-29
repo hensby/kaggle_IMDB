@@ -1,1 +1,1 @@
-# kaggle_IMDB
+# kaggle-IMDB
